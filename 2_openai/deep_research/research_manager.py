@@ -1,13 +1,18 @@
-from agents import Runner, trace, gen_trace_id
+from agents import Runner, trace, gen_trace_id, set_tracing_export_api_key
 from search_agent import search_agent
 from planner_agent import planner_agent, WebSearchItem, WebSearchPlan
 from writer_agent import writer_agent, ReportData
 from email_agent import email_agent
 import asyncio
+import os
 
 class ResearchManager:
 
     async def run(self, query: str):
+        os.environ["OPENAI_LOG"] = "debug"
+        # del os.environ["OPENAI_LOG"]
+        set_tracing_export_api_key(os.getenv("OPENAI_TRACING_KEY"))
+
         """ Run the deep research process, yielding the status updates and the final report"""
         trace_id = gen_trace_id()
         with trace("Research trace", trace_id=trace_id):
