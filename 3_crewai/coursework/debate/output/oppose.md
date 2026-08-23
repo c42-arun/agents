@@ -1,9 +1,7 @@
-I oppose the motion.
+No—bread is not inherently good for you, and in many modern forms it is actively unhelpful.
 
-A ban on the **sale** of portable barbeques during a heat wave is a blunt, ineffective response to a real safety concern. If the goal is to prevent fire, banning sales is the wrong lever: it punishes retailers, inconveniences responsible consumers, and does little to stop people who already own one from using it irresponsibly. A person intent on careless behavior will not be stopped by a sales ban.
+Most bread people eat is highly refined, meaning the fiber and nutrients are stripped away. What’s left is a fast-digesting starch that can spike blood sugar, leave you hungry again quickly, and encourage overeating. That is the opposite of what a truly healthy food should do. Even “healthy” bread often comes with added sugar, salt, and preservatives, making it more processed than nourishing.
 
-The better approach is **targeted regulation and enforcement**: temporary restrictions on use in high-risk areas, clear fire warnings, bans on use in parks and balconies, and stronger penalties for negligent ignition. That directly addresses the danger without restricting lawful commerce or personal choice more than necessary.
+Yes, whole-grain bread is better than white bread, but that does not make bread a health food by default. At best, it is a convenient vehicle for calories. Many people would be better off getting their carbohydrates, fiber, and nutrients from less processed foods like oats, vegetables, legumes, nuts, and fruit.
 
-This motion also risks creating unfair outcomes. People may need to replace a broken barbeque, buy one for a permitted private setting, or purchase equipment well before an event. A heat wave can last days or weeks; a sales ban is overbroad and economically disruptive for little proven gain.
-
-In short: if portable barbeques are dangerous in a heat wave, regulate their **use**, not their **sale**. Effective public safety policy should be targeted, not symbolic.
+So the real answer is this: bread may be convenient, but convenience is not health. For many diets, especially when eaten regularly, bread is more of a compromise than a benefit.
