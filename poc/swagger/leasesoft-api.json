@@ -2819,7 +2819,7 @@
                 ],
                 "responses": {
                     "200": {
-                        "description": null,
+                        "description": "Returns the collateral document as a PDF.",
                         "content": {
                             "application/pdf": {
                                 "schema": {
