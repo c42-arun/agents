@@ -1,3 +1,3 @@
-from .leasesoft import LeaseSoftClient, LeaseSoftConfig
+from .leasesoft import ConfiguredLeasesoftApiClient, create_leasesoft_client
 
-__all__ = ["LeaseSoftClient", "LeaseSoftConfig"]
+__all__ = ["ConfiguredLeasesoftApiClient", "create_leasesoft_client"]
